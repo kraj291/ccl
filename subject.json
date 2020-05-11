@@ -1,36 +1,36 @@
 [
 {
 "subjectName":"Latest-Video",
-"videoListLink":"html.json",
+"videoListLink":"Latest-Video.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 },
 {
 "subjectName":"Success-Stories",
-"videoListLink":"css.json",
+"videoListLink":"Success-Stories.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
 {
 "subjectName":"Leadership-series",
-"videoListLink":"java.json",
+"videoListLink":"Leadership-series.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
 {
 "subjectName":"Buisness-Training",
-"videoListLink":"javascript.json",
+"videoListLink":"Buisness-Training.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
  {
 "subjectName":"Product-Training",
-"videoListLink":"javascript.json",
+"videoListLink":"Product-Training.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 },
 {
 "subjectName":"Product-Demo",
-"videoListLink":"reactjs.json",
+"videoListLink":"Product-Demo.json",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb5nIlQPtzhHdftpBWuia1KbE2P-C-pUO-2huLbAaXeZ8C_d1l&usqp=CAU"
 
 }
